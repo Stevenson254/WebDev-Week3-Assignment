@@ -1,0 +1,22 @@
+#google{
+  color:greenyellow;
+  font-weight: bold;
+}
+.home-footer{
+    color: chartreuse;
+    font-weight: bold;
+}
+body{
+   
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position-x: center;
+}
+button {
+  background-color: #4CAF50;
+  color: white;
+  padding: 10px ;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+}
